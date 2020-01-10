@@ -23,32 +23,13 @@
     <!-- Begin Contact Section -->
     <iframe src="https://venuesatotc.com/contact2.html" height="1000px" width="100%" ></iframe>
     <!-- End Contact Section -->
-
-    <!-- Begin Footer -->
-    <div class="text-center" style="padding-top: 5%">
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">venues.ogeecheetech.edu</div>
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">912.871.8544 | venues@ogecheetech.edu</div>
-    <div class="text-h7 text-italic" 
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">Equal Opportunity Institution | A Unit of the Technical College System of Georgia</div>  
-    </div>  
-  
-    <!-- End Footer --> 
-
+    <footer />
     </q-page>   
 </template>
 <script>
+import Footer from 'components/footer/Footer.vue'
 
 export default {
+  components: { Footer }
 }
 </script>

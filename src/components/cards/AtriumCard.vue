@@ -110,6 +110,7 @@
 
 <script>
 import { openURL } from 'quasar'
+
 export default { 
   data() {
     return {

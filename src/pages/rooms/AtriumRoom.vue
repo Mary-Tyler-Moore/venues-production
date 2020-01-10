@@ -18,52 +18,24 @@
             : 'color: #1e1e1e'"
       >{{ $t('carousel.atriumText') }}
       </h5>
-
-        <!-- Begin Desktop Section -->
-        <div class="column items-center" v-if="$q.platform.is.desktop">
-        <atrium-desktop-card />
-        </div>
-        <!-- End Desktop Section -->
         
-        <!-- Begin Mobile Section-->
-        <div class="column items-center" v-if="$q.platform.is.mobile">
+        <div class="column items-center">
         <atrium-card />
         </div>
-        <!-- End Mobile Section -->
 
-        <!-- Begin Footer -->
-    <div class="text-center" style="padding-top: 5%">
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">venues.ogeecheetech.edu</div>
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">912.871.8544 | venues@ogecheetech.edu</div>
-    <div class="text-h7 text-italic" 
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">Equal Opportunity Institution | A Unit of the Technical College System of Georgia</div>  
-    </div>  
-    
-    <!-- End Footer --> 
-
+    <footer />
     </q-page>   
 </template>
 
 <script>
 import { openURL } from 'quasar'
-import AtriumCard from "components/cards/mobile/AtriumCard.vue"
-import AtriumDesktopCard from "components/cards/desktop/AtriumDesktopCard.vue"
+import Footer from 'components/footer/Footer.vue'
+import AtriumCard from "components/cards/AtriumCard.vue"
  
 	export default {
     components: {
       AtriumCard,
-      AtriumDesktopCard,
+      Footer,
       
     },
     data() {

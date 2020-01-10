@@ -20,31 +20,8 @@
       </h5>
       
     <div class="space"></div>
-        <!-- Begin Desktop Section -->
-        <div class="column items-center" v-if="$q.platform.is.desktop">
-
-        <!-- Desktop Card 1 -->  
-        <oak-weddings-desktop-card></oak-weddings-desktop-card>
-         <!-- End Desktop Card 1 -->
-
-        <div class="space"></div>
-
-        <kennedya-desktop-card />
-
-        <!-- Begin Desktop Card 3 -->    
-        <div class="space"></div>
-
-        <atrium-desktop-card />
-        <!-- End Desktop Card 3 -->
-
-        <div class="space"></div>
-
-        </div>
-        <!-- End Desktop Section -->
-
-
         <!-- Begin Mobile Section-->
-        <div class="column items-center" v-if="$q.platform.is.mobile">
+        <div class="column items-center">
 
         <!-- Mobile Card 1 -->
       
@@ -67,47 +44,24 @@
         </div>
         <!-- End Mobile Section -->
 
-        <!-- Begin Footer -->
-    <div class="text-center" style="padding-top: 5%">
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">venues.ogeecheetech.edu</div>
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">912.871.8544 | venues@ogecheetech.edu</div>
-    <div class="text-h7 text-italic" 
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">Equal Opportunity Institution | A Unit of the Technical College System of Georgia</div>  
-    </div>  
-    
-    <!-- End Footer --> 
+    <footer />
 
     </q-page>   
 </template>
 
 <script>
 import { openURL } from 'quasar'
-import OakWeddingsCard from "components/cards/mobile/OakWeddingsCard.vue"
-import KennedyaWeddingsCard from "components/cards/mobile/KennedyaWeddingsCard.vue"
-import AtriumCard from "components/cards/mobile/AtriumCard.vue"
-import OakWeddingsDesktopCard from "components/cards/desktop/OakWeddingsDesktopCard.vue"
-import KennedyaDesktopCard from "components/cards/desktop/KennedyaDesktopCard.vue"
-import AtriumDesktopCard from "components/cards/desktop/AtriumDesktopCard.vue"
+import OakWeddingsCard from "components/cards/OakWeddingsCard.vue"
+import KennedyaWeddingsCard from "components/cards/KennedyaWeddingsCard.vue"
+import AtriumCard from "components/cards/AtriumCard.vue"
+import Footer from 'components/footer/Footer.vue'
     
 	export default {
     components: {
       OakWeddingsCard,
       KennedyaWeddingsCard,
       AtriumCard,
-      OakWeddingsDesktopCard,
-      KennedyaDesktopCard,
-      AtriumDesktopCard
+      Footer
     },
     data() {
       return {  

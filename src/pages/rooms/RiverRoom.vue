@@ -19,51 +19,23 @@
       >{{ $t('carousel.riverText') }}
       </h5>
 
-        <!-- Begin Desktop Section -->
-        <div class="column items-center" v-if="$q.platform.is.desktop">
-        <river-desktop-card />
-        </div>
-        <!-- End Desktop Section -->
-        
-        <!-- Begin Mobile Section-->
-        <div class="column items-center" v-if="$q.platform.is.mobile">
+        <div class="column items-center">
         <river-card />
         </div>
         <!-- End Mobile Section -->
-
-        <!-- Begin Footer -->
-    <div class="text-center" style="padding-top: 5%">
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">venues.ogeecheetech.edu</div>
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">912.871.8544 | venues@ogecheetech.edu</div>
-    <div class="text-h7 text-italic" 
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">Equal Opportunity Institution | A Unit of the Technical College System of Georgia</div>  
-    </div>  
-    
-    <!-- End Footer --> 
-
+    <footer />
     </q-page>   
 </template>
 
 <script>
 import { openURL } from 'quasar'
-import RiverCard from "components/cards/mobile/RiverCard.vue"
-import RiverDesktopCard from "components/cards/desktop/RiverDesktopCard.vue"
+import RiverCard from "components/cards/RiverCard.vue"
+import Footer from 'components/footer/Footer.vue'
  
 	export default {
     components: {
       RiverCard,
-      RiverDesktopCard,
+      Footer
       
     },
     data() {

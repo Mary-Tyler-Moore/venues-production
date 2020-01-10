@@ -18,52 +18,24 @@
             : 'color: #1e1e1e'"
       >{{ $t('carousel.classroomText') }}
       </h5>
-
-        <!-- Begin Desktop Section -->
-        <div class="column items-center" v-if="$q.platform.is.desktop">
-        <classroom-desktop-card />
-        </div>
-        <!-- End Desktop Section -->
-        
-        <!-- Begin Mobile Section-->
-        <div class="column items-center" v-if="$q.platform.is.mobile">
+ 
+        <div class="column items-center">
         <classroom-card />
         </div>
-        <!-- End Mobile Section -->
 
-        <!-- Begin Footer -->
-    <div class="text-center" style="padding-top: 5%">
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">venues.ogeecheetech.edu</div>
-    <div class="text-h5"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">912.871.8544 | venues@ogecheetech.edu</div>
-    <div class="text-h7 text-italic" 
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">Equal Opportunity Institution | A Unit of the Technical College System of Georgia</div>  
-    </div>  
-    
-    <!-- End Footer --> 
-
+    <footer />
     </q-page>   
 </template>
 
 <script>
 import { openURL } from 'quasar'
-import ClassroomCard from "components/cards/mobile/ClassroomCard.vue"
-import ClassroomDesktopCard from "components/cards/desktop/ClassroomDesktopCard.vue"
+import ClassroomCard from "components/cards/ClassroomCard.vue"
+import Footer from 'components/footer/Footer.vue'
  
 	export default {
     components: {
       ClassroomCard,
-      ClassroomDesktopCard,
+      Footer
       
     },
     data() {

@@ -27,32 +27,16 @@
       content-class="relative"
     />
     </div>
-    <!-- Begin Footer -->
-    <div class="text-center" style="padding-top: 0%">
-    <h5
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">venues.ogeecheetech.edu</h5>
-    <h5
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">912.871.8544 | venues@ogecheetech.edu</h5>
-    <h7 
-        class="text-italic"
-        :style="
-        $q.dark.isActive
-        ? 'color: white'
-        : 'color: black'">Equal Opportunity Institution | A Unit of the Technical College System of Georgia</h7>  
-    </div> 
-    <!-- End Footer --> 
+    <footer />
 
     </q-page>   
 </template>
 
 <script>
+import Footer from 'components/footer/Footer.vue'
+
 export default {
+  components: { Footer },
   data () {
     return {
       show: true,
