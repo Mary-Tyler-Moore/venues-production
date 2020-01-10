@@ -15,7 +15,7 @@ import lang from 'quasar/lang/en-us'
 
 import Vue from 'vue'
 
-import {Quasar,Notify} from 'quasar'
+import {Quasar,QLayout,QHeader,QFooter,QDrawer,QPageContainer,QPage,QToolbar,QToolbarTitle,QBtn,QIcon,QList,QItem,QCheckbox,QItemSection,QItemLabel,QTabs,QTab,QRouteTab,QCard,QCardSection,QCardActions,QDialog,QSpace,QInput,QPopupProxy,QForm,QBanner,QSelect,QScrollArea,QSeparator,QToggle,QSlider,QTabPanels,QTabPanel,QSpinner,QCarousel,QCarouselControl,QCarouselSlide,QParallax,QBtnDropdown,Notify} from 'quasar'
 
 
-Vue.use(Quasar, { config: {"dark":"true"},lang: lang,plugins: {Notify} })
+Vue.use(Quasar, { config: {"dark":"true"},lang: lang,components: {QLayout,QHeader,QFooter,QDrawer,QPageContainer,QPage,QToolbar,QToolbarTitle,QBtn,QIcon,QList,QItem,QCheckbox,QItemSection,QItemLabel,QTabs,QTab,QRouteTab,QCard,QCardSection,QCardActions,QDialog,QSpace,QInput,QPopupProxy,QForm,QBanner,QSelect,QScrollArea,QSeparator,QToggle,QSlider,QTabPanels,QTabPanel,QSpinner,QCarousel,QCarouselControl,QCarouselSlide,QParallax,QBtnDropdown},plugins: {Notify} })
