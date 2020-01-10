@@ -1,0 +1,44 @@
+{
+  "name": "dark",
+  "version": "0.0.1",
+  "description": "A 360 tour app",
+  "productName": "The Venues at OTC",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "Mary-Tyler-Moore",
+  "private": true,
+  "scripts": {
+    "build": "quasar build -m ssr",
+    "start": "node dist/ssr/index.js",
+    "deploy:fresh": "git pull && quasar build -m ssr && yarn deploy:ssr-pm2_restart",
+    "deploy:ssr-pm2": "pm2 start ./dist/ssr/index.js --name quasar-ssr",
+    "deploy:ssr-pm2_clusterize": "pm2 start ./dist/ssr/index.js --name quasar-ssr -i max",
+    "deploy:ssr-pm2_watch": "pm2 start ./dist/ssr/index.js --name quasar-ssr --watch ./dist/ssr",
+    "deploy:ssr-pm2_deep-monitoring": "pm2 start ./dist/ssr/index.js --name quasar-ssr --deep-monitoring",
+    "deploy:ssr-pm2_restart": "pm2 restart quasar-ssr",
+    "deploy:ssr-pm2_stop": "pm2 stop quasar-ssr",
+    "deploy:ssr-pm2_monitor": "pm2 monitor quasar-ssr",
+    "deploy:ssr-pm2_unmonitor": "pm2 unmonitor quasar-ssr",
+    "deploy:ssr-pm2_kill": "pm2 kill"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "quasar": "^1.0.0",
+    "vue-i18n": "^8.0.0",
+    "vuex-persistedstate": "^2.7.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-colorize": "^1.0.0-alpha.1",
+    "@quasar/quasar-app-extension-icon-genie": "^1.1.3",
+    "@quasar/quasar-app-extension-qpdfviewer": "^1.0.0-beta.5"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
