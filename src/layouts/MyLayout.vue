@@ -771,7 +771,7 @@
           :icon="$q.dark.isActive ? 'wb_sunny' : 'brightness_3'"
           flat
           class="absolute-right"
-          style="margin-right: 6em; margin-top: .9em"
+          style="margin-right: 96px; margin-top: 15px;"
           dense
           round
           @click="$q.dark.isActive ? $q.dark.set(false) : $q.dark.set(true)"
