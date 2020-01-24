@@ -18,7 +18,7 @@
       >All Rooms
       </h5>
     <div class="space"></div>
-        <div class="column items-center" v-if="$q.platform.is.mobile">
+        <div class="column items-center">
           <oak-card/>
             <div class="space"/>
           <river-card/>

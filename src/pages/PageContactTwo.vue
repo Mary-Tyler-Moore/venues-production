@@ -20,9 +20,7 @@
       </h5>
 
     <div class="space"></div>
-    <!-- Begin Contact Section -->
-    <iframe src="https://venuesatotc.com/contact2.html" height="1000px" width="100%" ></iframe>
-    <!-- End Contact Section -->
+    <iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F8D4emf1yuLkUcDyzPVVP5u%2FSkills%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
     <footer />
     </q-page>   
 </template>

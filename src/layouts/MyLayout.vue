@@ -589,7 +589,7 @@
             </q-item-label>  
           </q-item-section>
         </q-item>
-
+        <!--
         <q-item
           :style="
           $q.dark.isActive
@@ -613,6 +613,7 @@
             </q-item-label>  
           </q-item-section>
         </q-item>
+        -->
       </q-list>
       
      

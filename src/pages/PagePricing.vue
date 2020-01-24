@@ -10,14 +10,14 @@
 			label="Back"
 			flat />
 
-	<h5 
+	  <h5 
       style="font-weight: bold"
       :style="
           $q.dark.isActive
             ? 'color: white'
             : 'color: #1e1e1e'"
       >Pricing & Capacity
-      </h5>
+    </h5>
     <div class="column items-center" style="height: vh;">
     <q-pdfviewer
       style="width: 50%"
