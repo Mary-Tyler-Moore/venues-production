@@ -12,17 +12,17 @@
       width="100wv"
       background-color="black"
     >
+      <!--
       <q-carousel-slide v-if="$q.platform.is.desktop" name="first" img-src="statics/header-bg.jpg">
         <div class="absolute-center custom-caption" style="margin-top: -20em">
           <div class="text-h2">{{ $t("carousel.venuesText") }}</div>
           <div class="text-subtitle1">{{ $t("carousel.venuesSub") }}</div>
           <q-btn glossy style="background: goldenrod; color: white" class="" icon="meeting_room" v-bind:label="$t('mainMenu.roomDetails')"  to="all" />
-          <!--
           <q-btn glossy color="pink" class="button-2" icon="360" label="View in VR" @click="theAtrium()" />
-          -->
         </div>
       </q-carousel-slide>
-      <q-carousel-slide v-if="$q.platform.is.mobile" name="first" img-src="statics/header-bg.jpg">
+      -->c
+      <q-carousel-slide name="first" img-src="statics/header-bg.jpg">
         <div class="absolute-center custom-caption">
           <div class="text-h2">{{ $t("carousel.venuesText") }}</div>
           <div class="text-subtitle1">{{ $t("carousel.venuesSub") }}</div>
