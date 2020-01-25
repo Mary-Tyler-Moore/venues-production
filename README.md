@@ -10,7 +10,7 @@
 
 ## :floppy_disk: Developer Accessibility Statement:
 
-#### :crystal_ball: I see great success in your future.  If you believe in yourself there is nothing you will not achieve. Quasar makes it easy to develop cross platform applications from a single code base. 
+#### :crystal_ball: I see great success in your future.  Believe in yourself and you will achieve anything. Quasar makes it easy to develop cross platform applications from a single code base. 
 #### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
 
 #### :gift_heart: Always remember there are Quasarians from all over the world :earth_americas: ready to help you.
