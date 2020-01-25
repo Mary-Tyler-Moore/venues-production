@@ -1,22 +1,29 @@
+# Deadline Tuesday/Wednesday Morning
+
+
 ## Motivation:
 #### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
 ## Star Power:sparkles:
 #### If this guide helps you please star :star: the repo. Every star :dizzy: sends me a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:. 
 ## Environmental Impact Statement:
-#### I want to work 100% remote. I don't want to drive a :car: to an office :office: everyday. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
-
-
----
-
+#### I am seeking to work 100% remote. I don't want to drive a :car: to an office :office: everyday. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
 ## :floppy_disk: Developer Accessibility Statement:
-
 #### :crystal_ball: I see great success in your future.  Believe in yourself and you will achieve anything. Quasar makes it easy to develop cross platform applications from a single code base. 
 #### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
-
-#### :gift_heart: Always remember there are Quasarians from all over the world :earth_americas: ready to help you.
-
-##### :mag_right: Search CLI Docs: https://quasar.dev/start/quasar-cli 
-##### :pager: Chat me on Discord :space_invader: @Mary-Tyler-Moore https://discordapp.com/invite/5TDhbDg
+#### :gift_heart: Always remember there are Quasarians all over the world :earth_americas: ready to help you.
+## :mag_right: Useful Resources:
+###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
+### Quasar on Github:
+###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
+###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
+###### [Recently Updated Projects - JS](https://github.com/searchl=JavaScript&o=desc&q=quasar&s=updated&type=Repositories)
+###### [Recently Updated Projects - Vue](https://github.com/search?l=Vue&o=desc&q=quasar&s=updated&type=Repositories)
+### Follow Quasar on Twitter
+###### [@quasarframework](https://twitter.com/quasarframework)
+### Join Quasar Framework on Discord:
+###### [Quasar Framework Invitation](https://discordapp.com/invite/5TDhbDg)
+### :pager: Chat me on Discord :space_invader: 
+##### @Mary-Tyler-Moore 
 <!-- PROJECT LOGO -->
 <br />
 
@@ -183,12 +190,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
+Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more information.
 
 # Email 
 
