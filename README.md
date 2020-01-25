@@ -194,7 +194,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 # Email 
 
-tmoorewebbesign@gmail.com
+tmoorewebdesigns@gmail.com
 
 # Skype
 
