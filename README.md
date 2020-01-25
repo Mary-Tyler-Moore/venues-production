@@ -14,8 +14,8 @@
 
 #### :gift_heart: Always remember there are Quasarians from all over the world :earth_americas: ready to help you.
 
-##### :mag_right: Search the Docs here: 
-##### :pager: Chat me on Discord :space_invader:
+##### :mag_right: Search CLI Docs: https://quasar.dev/start/quasar-cli 
+##### :pager: Chat me on Discord :space_invader: @Mary-Tyler-Moore https://discordapp.com/invite/5TDhbDg
 <!-- PROJECT LOGO -->
 <br />
 
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## :cd: About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 ## :rocket: To-do:
 :zap:
