@@ -1,7 +1,8 @@
 ## Motivation:
 #### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
+## Star Power:sparkles:
 #### If this guide helps you please star :star: the repo. Every star :dizzy: sends me a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:. 
-
+## Environmental Impact Statement:
 #### I think it is silly to drive :car: to an office :office: everyday when we are more connected :revolving_hearts: than at any other recorded time in human history. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
 
 
