@@ -1,6 +1,3 @@
-# Deadline Tuesday/Wednesday Morning
-
-
 ## Motivation:
 #### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
 ## Star Power:sparkles:
