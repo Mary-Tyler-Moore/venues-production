@@ -1,29 +1,3 @@
-## Motivation:
-#### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
-## Star Power:sparkles:
-#### If this guide helps you please star :star: the repo. Every star :dizzy: sends me a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:. 
-## Environmental Impact Statement:
-#### I am seeking to work 100% remote. I don't want to drive a :car: to an office :office: everyday. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
-## :floppy_disk: Developer Accessibility Statement:
-#### :crystal_ball: I see great success in your future.  Believe in yourself and you will achieve anything. Quasar makes it easy to develop cross platform applications from a single code base. 
-#### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
-#### :gift_heart: Always remember there are Quasarians all over the world :earth_americas: ready to help you.
-## :mag_right: Useful Resources:
-###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
-### Quasar on Github:
-###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
-###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
-###### [Recently Updated Projects - JS](https://github.com/searchl=JavaScript&o=desc&q=quasar&s=updated&type=Repositories)
-###### [Recently Updated Projects - Vue](https://github.com/search?l=Vue&o=desc&q=quasar&s=updated&type=Repositories)
-### Follow Quasar on Twitter
-###### [@quasarframework](https://twitter.com/quasarframework)
-### Join Quasar Framework on Discord:
-###### [Quasar Framework Invitation](https://discordapp.com/invite/5TDhbDg)
-### :pager: Chat me on Discord :space_invader: 
-##### @Mary-Tyler-Moore 
-<!-- PROJECT LOGO -->
-<br />
-
 <p align="center">
   <h3 align="center">venues-production</h3>
 
@@ -44,6 +18,36 @@
     <a href="https://github.com/Mary-Tyler-Moore/venues-production/issues">Request Feature</a>
   </p>
 </p>
+
+
+
+## Motivation:
+#### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
+## Star Power:sparkles:
+#### If you like this guide please star :star: the repo. Every star :dizzy: sends me a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:.
+## :floppy_disk: Developer Accessibility Statement:
+#### :crystal_ball: I see great success in your future.  Believe in yourself and you will achieve anything. Quasar makes it easy to develop cross platform applications from a single code base. 
+#### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
+#### :gift_heart: Always remember there are Quasarians worldwide :earth_americas: ready to help you.
+
+
+
+## Chat Support
+
+Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
+
+## Community Forum
+
+Ask questions at the official community forum: [https://forum.quasar.dev](https://forum.quasar.dev)
+
+## Stay in Touch
+
+For latest releases and announcements, follow on Twitter: [@quasarframework](https://twitter.com/quasarframework)
+
+## Join Quasar on Discord:
+###### [Quasar Framework Invitation](https://discordapp.com/invite/5TDhbDg)
+<!-- PROJECT LOGO -->
+<br />
 
 
 
@@ -81,7 +85,20 @@ Updates to venues-production - 1/24/2020
 
 * []() Quasar
 * []() VueJS
-* []() Kombucha
+
+
+## :mag_right: Useful Resources:
+###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
+
+### Quasar on Github:
+###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
+###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
+###### [Recently Updated Quasar Projects - JS](https://github.com/searchl=JavaScript&o=desc&q=quasar&s=updated&type=Repositories)
+###### [Recently Updated Quasar Projects - Vue](https://github.com/search?l=Vue&o=desc&q=quasar&s=updated&type=Repositories)
+
+## Documentation
+
+Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
 
 
 
@@ -110,7 +127,7 @@ npm install
 ```
 ### Build the app for production
 ```bash
-quasar build
+quasar build -m ssr
 ```
 
 ### Add Cordova Quasar Mode
@@ -189,39 +206,14 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more information.
 
-# Email 
-
-tmoorewebdesigns@gmail.com
-
-<br>
-
-Project Link: [https://github.com/Mary-Tyler-Moore/venues-production](https://github.com/Mary-Tyler-Moore/venues-production)
 
 
+# :love_letter: Email Me
 
-<!-- ACKNOWLEDGEMENTS 
-## Acknowledgements
+#### tmoorewebdesigns@gmail.com
 
-* []()
-* []()
-* []()
+## :pager: Chat me on Discord :space_invader: 
+#### @Mary-Tyler-Moore 
 
-
--->
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+## Environmental Impact Statement:
+#### I am seeking to work 100% remote. I do not want to drive my car :car: to an office :office: fives days per week. Please help me become a carbon :deciduous_tree: neutral :recycle: JS developer by sharing your stars :sparkles: with me.
