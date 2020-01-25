@@ -1,12 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![CC BY-NC-SA][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
--->
-
 <!-- PROJECT LOGO -->
 <br />
 
