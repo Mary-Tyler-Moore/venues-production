@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://github.com/Mary-Tyler-Moore/venues-production">
     <img src="src/statics/logo.png" alt="Logo" width="667" height="223">
-    <img src="src/statics/venues-production.gif" width="1701" height="1061"
+    <img src="src/statics/venues-production.gif" width="850" height="530"
   </a>
   <h3 align="center">venues-production</h3>
 
