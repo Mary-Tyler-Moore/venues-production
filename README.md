@@ -20,9 +20,6 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/Mary-Tyler-Moore/venues-production">
-    <img src="src/statics/logo.png" alt="Logo" width="667" height="223">
-  </a>
   <h3 align="center">venues-production</h3>
 
   <p align="center">
