@@ -25,7 +25,6 @@
 <p align="center">
   <a href="https://github.com/Mary-Tyler-Moore/venues-production">
     <img src="src/statics/logo.png" alt="Logo" width="667" height="223">
-    <img src="src/statics/venues-production.gif" width="850" height="530"
   </a>
   <h3 align="center">venues-production</h3>
 
@@ -33,6 +32,7 @@
     SSR build of a Quasar project deployed on DigitalOcean using NGINX and PM2.
     <br />
     <br />
+    <img src="src/statics/venues-production.gif" width="850" height="530">
     <br />
     <a href="https://lovejs.dev/">View Demo</a>
     ·
