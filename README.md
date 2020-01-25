@@ -1,5 +1,5 @@
 ## Motivation:
-#### Working with Quasar CLI has been a game changer in my development to deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
+#### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
 #### If this guide helps you please star :star: the repo. Every star :dizzy: sends me a little ray of sunshine :sun_with_face: I use to power :zap: my home :tent: and computer :computer:. 
 
 #### I think it is silly to drive :car: to an office :office: everyday when we are more connected :revolving_hearts: than at any other recorded time in human history. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
@@ -10,7 +10,7 @@
 ## :floppy_disk: Developer Accessibility Statement:
 
 #### :crystal_ball: I see great success in your future.  If you believe in yourself there is nothing you will not achieve. Quasar makes it easy to develop cross platform applications from a single code base. 
-#### :broken_heart: Anyone can experience burn out when learning a new a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
+#### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
 
 #### :gift_heart: Always remember there are Quasarians from all over the world :earth_americas: ready to help you.
 
