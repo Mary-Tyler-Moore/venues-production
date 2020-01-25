@@ -32,7 +32,9 @@
     SSR build of a Quasar project deployed on DigitalOcean using NGINX and PM2.
     <br />
     <br />
+    <br />
     <img src="src/statics/venues-production.gif" width="850" height="530">
+    <br />
     <br />
     <a href="https://lovejs.dev/">View Demo</a>
     ·
