@@ -178,10 +178,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 tmoorewebdesigns@gmail.com
 
-# Skype
-
-Mary-Tyler-Moore
-
 <br>
 
 Project Link: [https://github.com/Mary-Tyler-Moore/venues-production](https://github.com/Mary-Tyler-Moore/venues-production)
