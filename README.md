@@ -3,7 +3,7 @@
 ## Star Power:sparkles:
 #### If this guide helps you please star :star: the repo. Every star :dizzy: sends me a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:. 
 ## Environmental Impact Statement:
-#### I think it is silly to drive :car: to an office :office: everyday. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
+#### I want to work 100% remote. I don't want to drive a :car: to an office :office: everyday. Please help me become a carbon neutral :deciduous_tree: JS developer by sharing your star power :sparkles: with me.
 
 
 ---
