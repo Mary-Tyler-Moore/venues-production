@@ -1,9 +1,11 @@
-#### If you like this guide please star :star: the repo. Every star :dizzy: sends a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:.
+## Star Power:sparkles:
+#### If this guide helps please star :star: the repo. 
+<br />
 <p align="center">
-  <h3 align="center">venues-production</h3>
+  <h3 align="center">:movie_camera: venues-production :clapper:</h3>
 
   <p align="center">
-    SSR build of a Quasar project deployed on DigitalOcean using NGINX and PM2.
+    Quasar SSR deployed on DigitalOcean :surfer: using NGINX and PM2.
     <br />
     <br />
     <br />
@@ -20,11 +22,14 @@
   </p>
 </p>
 
+<br />
 
-
-## Motivation:
+## :muscle: Motivation:
 #### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
-## Star Power:sparkles:
+## :chart_with_upwards_trend: History:
+#### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
+<br />
+
 ## :floppy_disk: Developer Accessibility Statement:
 #### :crystal_ball: I see great success in your future.  Believe in yourself and you will achieve anything. Quasar makes it easy to develop cross platform applications from a single code base. 
 #### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
@@ -48,10 +53,19 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 ###### [Quasar Framework Invitation](https://discordapp.com/invite/5TDhbDg)
 <!-- PROJECT LOGO -->
 <br />
+<br />
+
+
+## :rocket: To-do:
+:zap:
+Updates to venues-production - 1/24/2020
+- [ ] Write README.md
+- [ ] Setup Prettier 
+- [ ] Add new map page
+- [ ] Update contact page
 
 
 
-<!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -68,18 +82,8 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 
 ---
 
-<!-- ABOUT THE PROJECT -->
+
 ## :cd: About The Project
-
-
-
-## :rocket: To-do:
-:zap:
-Updates to venues-production - 1/24/2020
-- [ ] Setup Prettier 
-- [ ] Add new map page
-- [ ] Update contact page
-
 
 ### Built With
 
@@ -115,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
-### Installation
+### :electric_plug: Installation
  
 1. Clone the repo
 ```sh
@@ -125,7 +129,7 @@ git clone https://github.com/Mary-Tyler-Moore/venues-production.git
 ```sh
 npm install
 ```
-### Build the app for production
+### :hammer: Build the app for production
 ```bash
 quasar build -m ssr
 ```
@@ -136,18 +140,18 @@ quasar build -m ssr
 quasar ext add @quasar/icon-genie
 ```
 <br />
-## Node.js Deployment
+## :neckbeard: Node.js Deployment
 
 > Steps to deploy a Node.js app to DigitalOcean using PM2, NGINX as a reverse proxy and an SSL from LetsEncrypt
 
-## 1. Sign up for Digital Ocean
+## 1. Sign up for Digital Ocean :surfer:
 If you use the referal link below, you get $10 free (1 or 2 months)
 https://m.do.co/c/5424d440c63a
 
-## 2. Create a droplet and log in via ssh
+## 2. Create a droplet and log in via ssh :computer:
  I will be using the root user, but would suggest creating a new user
 
-## 3. Install Node/NPM
+## 3. Install :arrow_heading_down: Node/NPM
 ```
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 
@@ -156,7 +160,7 @@ sudo apt install nodejs
 node --version
 ```
 
-## 4. Clone your project from Github
+## 4. Clone your project from Github :octocat:
 There are a few ways to get your files on to the server, I would suggest using Git
 ```
 git clone yourproject.git
@@ -170,7 +174,7 @@ npm start (or whatever your start command)
 # stop app
 ctrl+C
 ```
-## 6. Setup PM2 process manager to keep your app running
+## 6. Setup PM2 process manager to keep your app running :running: :exclamation: :tiger2:
 ```
 sudo npm i pm2 -g
 pm2 start app (or whatever your file name)
