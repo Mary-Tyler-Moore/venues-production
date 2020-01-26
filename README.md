@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">:movie_camera: venues-production :clapper:</h3>
+  <h2 align="center">:movie_camera: venues-production :clapper:</h3>
   <p align="center">
     Quasar SSR :zap: deployed on DigitalOcean :surfer: using NGINX and PM2.
     <br />
