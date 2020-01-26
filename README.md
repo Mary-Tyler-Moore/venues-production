@@ -93,8 +93,8 @@ Updates to venues-production - 1/24/2020
 ### Quasar on Github:
 ###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
 ###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
-###### [Recently Updated Quasar Projects - JS](https://github.com/searchl=JavaScript&o=desc&q=quasar&s=updated&type=Repositories)
-###### [Recently Updated Quasar Projects - Vue](https://github.com/search?l=Vue&o=desc&q=quasar&s=updated&type=Repositories)
+###### [quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+
 
 ## Documentation
 
