@@ -1,5 +1,6 @@
 ## Star Power :sparkles:
 #### If this guide helps please star :star: the repo. 
+
 <br />
 <p align="center">
   <h3 align="center">:movie_camera: venues-production :clapper:</h3>
@@ -99,8 +100,11 @@ Updates to venues-production - 1/24/2020
 * [Acknowledgements](#acknowledgements)
 
 <br />
+
 ---
+
 <br />
+
 ## :cd: Project History
 
 ### Performance Improvements:
