@@ -60,6 +60,7 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 :zap:
 Updates to venues-production - 1/24/2020
 - [ ] Write README.md
+- [ ] Replace placeholder images with gifs I recorded using Terminalizer
 - [ ] Setup Prettier 
 - [ ] Add new map page
 - [ ] Update contact page
@@ -105,8 +106,6 @@ Updates to venues-production - 1/24/2020
 Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -159,12 +158,14 @@ sudo apt install nodejs
 
 node --version
 ```
+<img src="http://placekitten.com/810/510" />
 
 ## 4. Clone your project from Github :octocat:
 There are a few ways to get your files on to the server, I would suggest using Git
 ```
 git clone yourproject.git
 ```
+<img src="http://placekitten.com/820/500" />
 
 ### 5. Install dependencies and test app
 ```
@@ -174,6 +175,7 @@ npm start (or whatever your start command)
 # stop app
 ctrl+C
 ```
+<img src="http://placekitten.com/805/500" />
 ## 6. Setup PM2 process manager to keep your app running :running: :exclamation: :tiger2:
 ```
 sudo npm i pm2 -g
@@ -191,6 +193,7 @@ pm2 flush (Clear logs)
 pm2 startup ubuntu
 ```
 ### You should now be able to access your app using your IP and port. Now we want to setup a firewall blocking that port and setup NGINX as a reverse proxy so we can access it directly using port 80 (http)
+<img src="http://placekitten.com/800/500" />
 
 ## 7. Setup ufw firewall
 ```
@@ -200,6 +203,7 @@ sudo ufw allow ssh (Port 22)
 sudo ufw allow http (Port 80)
 sudo ufw allow https (Port 443)
 ```
+<img src="http://placekitten.com/801/500" />
 
 ## 8. Install NGINX and configure
 ```
@@ -229,6 +233,7 @@ sudo service nginx restart
 ```
 
 ### You should now be able to visit your IP with no port (port 80) and see your app. Now let's add a domain
+<img src="http://placekitten.com/800/503" />
 
 ## 9. Add domain in Digital Ocean
 In Digital Ocean, go to networking and add a domain
@@ -248,7 +253,7 @@ Choose "Custom nameservers" and add these 3
 
 It may take a bit to propogate
 
-10. Add SSL with LetsEncrypt
+## 10. Add SSL with LetsEncrypt
 ```
 sudo add-apt-repository ppa:certbot/certbot
 sudo apt-get update
@@ -260,6 +265,8 @@ certbot renew --dry-run
 ```
 
 Now visit https://yourdomain.com and you should see your Node app
+
+<img src="http://placekitten.com/800/505" />
 
 
 ## Usage
@@ -299,5 +306,5 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 ## :pager: Chat me on Discord :space_invader: 
 #### @Mary-Tyler-Moore 
 
-## Author's Environmental Impact Statement:
+## Author's Environmental Impact:
 #### I am seeking to work 100% remote. I am seeking to stop driving my car :car: to an office :office: fives days per week. Please help me become a carbon :deciduous_tree: neutral :recycle: JS developer by sharing your stars :sparkles: with me.
