@@ -1,3 +1,4 @@
+#### If you like this guide please star :star: the repo. Every star :dizzy: sends a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:.
 <p align="center">
   <h3 align="center">venues-production</h3>
 
@@ -24,7 +25,6 @@
 ## Motivation:
 #### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
 ## Star Power:sparkles:
-#### If you like this guide please star :star: the repo. Every star :dizzy: sends a little ray of sunshine :sun_with_face: that I use to power :zap: my home :tent: and computer :computer:.
 ## :floppy_disk: Developer Accessibility Statement:
 #### :crystal_ball: I see great success in your future.  Believe in yourself and you will achieve anything. Quasar makes it easy to develop cross platform applications from a single code base. 
 #### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
