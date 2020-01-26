@@ -330,13 +330,5 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more information.
 
 
-
-# :love_letter: Email Me
-
-#### tmoorewebdesigns@gmail.com
-
-## :pager: Chat me on Discord :space_invader: 
-#### @Mary-Tyler-Moore 
-
 ## Author's Environmental Impact:
 #### I am seeking to work 100% remote. I am seeking to stop driving my car :car: to an office :office: fives days per week. Please help me become a carbon :deciduous_tree: neutral :recycle: JS developer by sharing your stars :sparkles: with me.
