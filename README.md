@@ -35,8 +35,11 @@
 #### :gift_heart: Always remember there are Quasarians worldwide :earth_americas: ready to help you.
 
 <br />
+
 ## :mag_right: Useful Resources:
+
 <br />
+
 ## Chat Support
 
 Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
@@ -64,7 +67,9 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 ###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
 
 <br />
+
 ---
+
 <br />
 
 
