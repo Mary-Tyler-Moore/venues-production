@@ -1,11 +1,11 @@
-## Star Power:sparkles:
+## Star Power :sparkles:
 #### If this guide helps please star :star: the repo. 
 <br />
 <p align="center">
   <h3 align="center">:movie_camera: venues-production :clapper:</h3>
 
   <p align="center">
-    Quasar SSR deployed on DigitalOcean :surfer: using NGINX and PM2.
+    Quasar SSR :zap: deployed on DigitalOcean :surfer: using NGINX and PM2.
     <br />
     <br />
     <br />
@@ -26,8 +26,7 @@
 
 ## :muscle: Motivation:
 #### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
-## :chart_with_upwards_trend: History:
-#### Working with Quasar CLI has been a game changer for my development and deployment work flow. This README documents the deployment of a Quasar SSR build on DigitalOcean using PM2 and NGINX.
+
 <br />
 
 ## :floppy_disk: Developer Accessibility Statement:
@@ -35,8 +34,9 @@
 #### :broken_heart: Anyone can experience burn out when learning a new technology. If you face an error during installation or deployment, don't sweat :sweat: it!
 #### :gift_heart: Always remember there are Quasarians worldwide :earth_americas: ready to help you.
 
-
-
+<br />
+## :mag_right: Useful Resources:
+<br />
 ## Chat Support
 
 Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
@@ -51,8 +51,20 @@ For latest releases and announcements, follow on Twitter: [@quasarframework](htt
 
 ## Join Quasar on Discord:
 ###### [Quasar Framework Invitation](https://discordapp.com/invite/5TDhbDg)
-<!-- PROJECT LOGO -->
+
+### Quasar on Github:
+###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
+###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
+###### [quasar-awesome](https://github.com/quasarframework/quasar-awesome)
+
+
+## Documentation
+
+Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
+###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
+
 <br />
+---
 <br />
 
 
@@ -81,8 +93,24 @@ Updates to venues-production - 1/24/2020
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
+<br />
 ---
+<br />
+## :cd: Project History
 
+### Performance Improvements:
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
+
+### UI/UX Improvments:
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
+
+### Desktop UI:
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
+
+### Mobile UI:
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
+
+<br />
 
 ## :cd: About The Project
 
@@ -90,20 +118,14 @@ Updates to venues-production - 1/24/2020
 
 * []() Quasar
 * []() VueJS
+* []() SCSS
 
 
-## :mag_right: Useful Resources:
-###### [CLI Documentation](https://quasar.dev/start/quasar-cli)
+### Project Features
 
-### Quasar on Github:
-###### [quasarframework/quasar](https://github.com/quasarframework/quasar)
-###### [Sponsor Quasar](https://github.com/sponsors/rstoenescu)
-###### [quasar-awesome](https://github.com/quasarframework/quasar-awesome)
-
-
-## Documentation
-
-Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
+* []() I18N
+* []() A11Y
+* []() Dark Mode
 
 
 ## Getting Started
