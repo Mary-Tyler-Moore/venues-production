@@ -176,7 +176,9 @@ npm start (or whatever your start command)
 ctrl+C
 ```
 <img src="http://placekitten.com/805/500" />
+
 ## 6. Setup PM2 process manager to keep your app running :running: :exclamation: :tiger2:
+
 ```
 sudo npm i pm2 -g
 pm2 start app (or whatever your file name)
