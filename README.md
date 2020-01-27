@@ -3,13 +3,16 @@
 
 <br />
 <p align="center">
-  <h1 align="center">:movie_camera: venues-production :clapper:</h1>
+  <h3 align="center">:movie_camera: venues-production :clapper:</h3>
+
   <p align="center">
     Quasar SSR :zap: deployed on DigitalOcean :surfer: using NGINX and PM2.
-  
     <br />
     <br />
-
+    <br />
+    <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/venues-production.gif?raw=true" width="1000px" />
+    <br />
+    <br />
     <a href="https://lovejs.dev/">View Demo</a>
     ·
     <a href="https://thevenuesvr.netlify.com/#The_Atrium">View 360 Panoramas</a>
@@ -17,12 +20,9 @@
     <a href="https://github.com/Mary-Tyler-Moore/venues-production/issues">Report Bug</a>
     ·
     <a href="https://github.com/Mary-Tyler-Moore/venues-production/issues">Request Feature</a>
-    <br />
-    <br />
-    <br />
-    <img src="src/statics/venues-production.gif" width="850" height="530">
   </p>
 </p>
+
 
 <br />
 
