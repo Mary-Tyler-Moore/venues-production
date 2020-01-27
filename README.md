@@ -8,6 +8,8 @@
     Quasar SSR :zap: deployed on DigitalOcean :surfer: using NGINX and PM2.
     <br />
     <br />
+    [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/Mary-Tyler-Moore/venues-production)
+    <br />
     <a href="https://lovejs.dev/">View Demo</a>
     ·
     <a href="https://thevenuesvr.netlify.com/#The_Atrium">View 360 Panoramas</a>
