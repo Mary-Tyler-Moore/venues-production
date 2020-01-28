@@ -124,6 +124,8 @@ Updates to venues-production - 1/24/2020
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/venues-before.png?raw=true" height="500" />
 
+<br />
+
 #### After:
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/lovejs-lighthouse.png?raw=true" height="500" />
@@ -380,7 +382,7 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 
 ## Acknowledgements
 
-- I want to thank [nothingismagick](https://github.com/nothingismagick) for writing a [guide](https://dev.to/nothingismagick/setup-and-serve-quasar-ssr-in-a-droplet-in-30-minutes-and-in-3-quick-and-easy-steps-49kp) for deploying Quasar SSR to Digitial Ocean. This resource saved me hours of time.
+- I want to thank [nothingismagick](https://github.com/nothingismagick) for writing this [guide](https://dev.to/nothingismagick/setup-and-serve-quasar-ssr-in-a-droplet-in-30-minutes-and-in-3-quick-and-easy-steps-49kp). 
 - I also want to thank [Brad Traversy](https://github.com/bradtraversy) for providing this [gist](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896)
   that I used as a reference.
 
