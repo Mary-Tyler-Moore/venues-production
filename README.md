@@ -124,6 +124,9 @@ Updates to venues-production - 1/24/2020
 ### Mobile Menu:
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/mobile-compare-2.png?raw=true" height="500" />
 
+### Mobile Room Details:
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/mobile-compare-3.png?raw=true" height="500" />
+
 <br />
 
 ## :cd: About The Project
