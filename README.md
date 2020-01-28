@@ -3,7 +3,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">:movie_camera: venues-production :clapper:</h3>
+  <h1 align="center">:movie_camera: venues-production :clapper:</h1>
 
   <p align="center">
     Quasar SSR :zap: deployed on DigitalOcean :surfer: using NGINX and PM2.
@@ -119,7 +119,7 @@ Updates to venues-production - 1/24/2020
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
 
 ### Mobile UI:
-<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/compare-mobile-1.png?raw=true" height="500" />
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/compare-mobile-arrow.png?raw=true" height="500" />
 
 <br />
 
