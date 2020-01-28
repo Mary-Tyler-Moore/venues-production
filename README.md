@@ -154,7 +154,7 @@ Updates to venues-production - 1/24/2020
 
 ## :cd: About The Project
 
-## :globe: i18n:
+## :earth_americas: i18n:
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/i18n-en-us.png?raw=true" />
 
