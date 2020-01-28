@@ -132,12 +132,6 @@ Updates to venues-production - 1/24/2020
 
 ### UI/UX Improvments:
 
-<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
-
-### Desktop UI:
-
-<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
-
 ### Mobile UI:
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/compare-mobile-arrow.png?raw=true" height="500" />
