@@ -120,7 +120,13 @@ Updates to venues-production - 1/24/2020
 
 ### Performance Improvements:
 
-<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
+#### Before:
+
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/venues-before.png?raw=true" height="500" />
+
+#### After:
+
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/lovejs-lighthouse.png?raw=true" height="500" />
 
 ### UI/UX Improvments:
 
