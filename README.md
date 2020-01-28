@@ -85,17 +85,6 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 <br />
 
-## :rocket: To-do:
-
-:zap:
-Updates to venues-production - 1/24/2020
-
-- [ ] Write README.md
-- [ ] Replace placeholder images with gifs I recorded using Terminalizer
-- [ ] Setup Prettier
-- [ ] Add new map page
-- [ ] Update contact page
-
 ## Table of Contents
 
 - [About the Project](#about-the-project)
@@ -109,6 +98,23 @@ Updates to venues-production - 1/24/2020
 - [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+
+<br />
+
+---
+
+<br />
+
+## :rocket: To-do:
+
+:zap:
+Updates to venues-production - 1/24/2020
+
+- [ ] Write README.md
+- [ ] Replace placeholder images with gifs I recorded using Terminalizer
+- [ ] Setup Prettier
+- [ ] Add new map page
+- [ ] Update contact page
 
 <br />
 
@@ -147,6 +153,14 @@ Updates to venues-production - 1/24/2020
 <br />
 
 ## :cd: About The Project
+
+## :globe: i18n:
+
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/i18n-en-us.png?raw=true" />
+
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/i18n-es.png?raw=true" />
+
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/MagnoliaCard.png?raw=true" />
 
 ### Built With
 
@@ -376,7 +390,7 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 
 ## Acknowledgements
 
-- I want to thank [nothingismagick](https://github.com/nothingismagick) for writing this [guide](https://dev.to/nothingismagick/setup-and-serve-quasar-ssr-in-a-droplet-in-30-minutes-and-in-3-quick-and-easy-steps-49kp). 
+- I want to thank [nothingismagick](https://github.com/nothingismagick) for writing this [guide](https://dev.to/nothingismagick/setup-and-serve-quasar-ssr-in-a-droplet-in-30-minutes-and-in-3-quick-and-easy-steps-49kp).
 - I also want to thank [Brad Traversy](https://github.com/bradtraversy) for providing this [gist](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896)
   that I used as a reference.
 
