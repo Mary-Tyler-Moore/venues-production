@@ -119,7 +119,7 @@ Updates to venues-production - 1/24/2020
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
 
 ### Mobile UI:
-<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/header-bg.jpg?raw=true" height="500" />
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/compare-mobile-1.png?raw=true" height="500" />
 
 <br />
 
