@@ -26,6 +26,8 @@
 
 ## Tech Stack
 
+> Check out the other tech stacks I use at [Stack Share](https://stackshare.io/Mary-Tyler-Moore)
+
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/venues-production-stack.png?raw=true" width="1000px" />
 
 <br />
