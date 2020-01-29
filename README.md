@@ -110,10 +110,13 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 :zap:
 Updates to venues-production - 1/24/2020
 
-- [ ] Write README.md
-- [ ] Replace placeholder images with gifs I recorded using Terminalizer
-- [ ] Setup Prettier
-- [ ] Add new map page
+- [x] Write README.md
+- [ ] Replace placeholder images with gifs
+- [x] Setup Prettier
+- [ ] Clean up folder structure
+- [ ] Create 1 template card
+- [ ] Move hard coded data from cards to external JSON file
+- [ ] Move all project example images to Cloudflare CDN.
 - [ ] Update contact page
 
 <br />
@@ -156,11 +159,12 @@ Updates to venues-production - 1/24/2020
 
 ## :earth_americas: i18n:
 
+<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/MagnoliaCard.png?raw=true" />
+
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/i18n-en-us.png?raw=true" />
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/i18n-es.png?raw=true" />
 
-<img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/MagnoliaCard.png?raw=true" />
 
 ### Built With
 
@@ -170,9 +174,11 @@ Updates to venues-production - 1/24/2020
 
 ### Project Features
 
-- []() I18N
-- []() A11Y
+- []() i18n
+- []() a11y
+- []() Vuex
 - []() Dark Mode
+- []() SSR Deployment Guide (Currently a WIP)
 
 ## Getting Started
 
