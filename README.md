@@ -168,6 +168,7 @@ Updates to venues-production - 1/24/2020
 ## :cd: About The Project
 
 ## :earth_americas: i18n:
+> Traduzco del inglés al español.
 
 ### src/i18n/en-us/index.js
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/i18n-en-us.png?raw=true" />
