@@ -123,7 +123,7 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 ## :cd: Project History
 
-### Performance Improvements:
+### :speedboat:	 Performance Improvements:
 
 #### Before:
 
@@ -135,7 +135,7 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/lovejs-lighthouse.png?raw=true" height="500" />
 
-### UI/UX Improvments:
+### :art: UI/UX Improvments:
 
 ### Mobile UI:
 
