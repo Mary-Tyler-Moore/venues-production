@@ -30,20 +30,20 @@ export default {
     pdfCapacityChart: "Gráfico de Capacidad",
     roomDetails: "Detalles de los salones",
     buttonVr: "Tour Virtual",
-    theVenues: "Los Venues",
+    theVenues: "The Venues",
     oakRoom: "The Oak Room",
-    riverRoom: "El River Room",
+    riverRoom: "The River Room",
     magnoliaRoom: "The Magnolia Room",
     kennedyBoardroom: "The Kennedy Boardroom",
     ogeecheeBoardroom: "The Ogeechee Boardroom",
     kennedyAuditorium: "The Kennedy Auditorium",
     computerLabs: "Laboratorios de Computación",
     classrooms: "Aulas",
-    theAtrium: "El Atrium"
+    theAtrium: "The Atrium"
   },
   carousel: {
     autoPlay: "Reproducción Automática",
-    venuesText: "Los Venues en OTC",
+    venuesText: "The Venues en OTC",
     venuesSub:
       "¡El lugar perfecto para su próximo evento social o de negocios!",
     oakText: "The Oak Room",
@@ -59,7 +59,7 @@ export default {
     ogeecheeText: "The Ogeechee Boardroom",
     ogeecheeSub:
       "The Ogeechee Boardroom tiene capacidad para 16 personas alrededor de una mesa de conferencias de estilo ejecutivo.",
-    kennedyaText: "El Kennedy Auditorium",
+    kennedyaText: "The Kennedy Auditorium",
     kennedyaSub:
       "Desde sesiones de capacitación hasta oradores de renombre este auditorio recientemente renovado ofrece una experiencia brillante en el lugar.",
     computerText: "Laboratorios de Computación",
@@ -76,7 +76,7 @@ export default {
     pOne:
       "Cuando se trata de celebraciones de bodas memorables, fiestas festivas emocionantes, grandes reuniones regionales o un retiro ejecutivo, las personas a menudo recurren a Los Venues. Desde laboratorios de computación hasta auditorios, salas de conferencias y salas de juntas, tenemos espacios únicos para todo tipo de eventos.",
     pTwo:
-      "La joya de la corona de Los Venues es un hermoso salón de baile con ventanas del piso al techo con vista a acres de abedul acuático y altos pinos de Georgia, con columnas de piedra y servicio audiovisual de última generación. Las amenidades que ofrece el salón de baile incluyen un amplio atrio delantero y terraza, una cocina preparatoria de servicio completo, acceso a Wi-Fi, dos proyectores LCD, una computadora, podio, micrófono inalámbrico y sistema de sonido. Los hermosos espacios al aire libre y los espacios interiores cálidos y acogedores se combinan para formar uno de los escenarios más llamativos de esta región.",
+      "La joya de la corona de The Venues es un hermoso salón de baile con ventanas del piso al techo con vista a acres de abedul acuático y altos pinos de Georgia, con columnas de piedra y servicio audiovisual de última generación. Las amenidades que ofrece el salón de baile incluyen un amplio atrio delantero y terraza, una cocina preparatoria de servicio completo, acceso a Wi-Fi, dos proyectores LCD, una computadora, podio, micrófono inalámbrico y sistema de sonido. Los hermosos espacios al aire libre y los espacios interiores cálidos y acogedores se combinan para formar uno de los escenarios más llamativos de esta región.",
     pThree:
       "Convenientemente ubicado a solo minutos de la I-16 y el centro de Statesboro, nuestros espacios son el lugar ideal para negocios y reuniones sociales de todo tipo. Elegido como uno de los mejores lugares para celebrar un evento, The Venues es fácilmente accesible, tiene un amplio estacionamiento gratuito y tiene múltiples opciones a precios asequibles.",
     cardBusiness: "Eventos Empresariales",
@@ -93,7 +93,7 @@ export default {
       "Apreciamos el trabajo que usted y su personal hicieron coordinando nuestro taller hoy. El Salón era estupendo y justo lo que pedimos. Recibimos varios comentarios sobre lo agradable que era el lugar y el personal. Nuestros funcionarios dijeron que era una de las mejores instalaciones que habían usado para sus talleres. Esperamos volver a trabajar con Ogeechee Tech en el futuro.",
     // Spears Family
     testTwo:
-      "Me gustaría aprovechar la oportunidad para agradecer a los Venues en Ogeechee Technical College por permitirnos celebrar nuestra boda allí el 6 de julio de 2019. Nuestra boda fue un cuento de hadas hecho realidad y no podríamos haber encontrado un lugar mejor. Disfrutamos todo sobre el lugar y recibimos muchos cumplidos. Estoy muy agradecido de haber elegido The Venues at Ogeechee Tech. Gracias de nuevo a todo el equipo de Ogeechee Technical College. Esperamos trabajar con usted en el futuro.",
+      "Me gustaría aprovechar la oportunidad para agradecer a The Venues en Ogeechee Technical College por permitirnos celebrar nuestra boda allí el 6 de julio de 2019. Nuestra boda fue un cuento de hadas hecho realidad y no podríamos haber encontrado un lugar mejor. Disfrutamos todo sobre el lugar y recibimos muchos cumplidos. Estoy muy agradecido de haber elegido The Venues at Ogeechee Tech. Gracias de nuevo a todo el equipo de Ogeechee Technical College. Esperamos trabajar con usted en el futuro.",
     // The Wright and Hagan Families
     testThree:
       'Recomendamos encarecidamente la instalación "Oak Room" y el personal a cualquiera que busque un lugar excepcional para un evento. Tuvimos una cena de ensayo para cerca de 100 personas y todo lo discutido y planeado para nosotros fue perfecto. La instalación es hermosa, limpia y el personal estuvo presente antes, durante y después de nuestro evento. Gracias a Ogeechee Tech por compartir una instalación tan hermosa y el maravilloso personal, para ayudarnos a disfrutar de un momento tan memorable para nuestro hijo y nuestra nueva nuera.',
@@ -102,7 +102,7 @@ export default {
       "Recomendamos encarecidamente Ogeechee Tech para todas sus necesidades de eventos de negocios. El personal siempre es muy servicial y atento. The Board Room es ideal para reuniones de negocios y The Oak Room es absolutamente increíble. ¡Hemos organizado muchos eventos a lo largo de los años con Ogeechee Tech y nunca nos ha decepcionado! ¡Recomendaríamos este lugar a cualquiera!",
     // Angie
     testFive:
-      "Tuve la fiesta de graduación de mi hija en el atrio y fue increíble. ¡Me encantó todo y el personal me ayudó de muchas maneras! Ya he reservado el Atrium para la fiesta de graduación de mi próxima hija y recomendaría The Venues at Ogeechee Tech a todos."
+      "Tuve la fiesta de graduación de mi hija en el atrio y fue increíble. ¡Me encantó todo y el personal me ayudó de muchas maneras! Ya he reservado The Atrium para la fiesta de graduación de mi próxima hija y recomendaría The Venues at Ogeechee Tech a todos."
   },
   cards: {
     //Global
