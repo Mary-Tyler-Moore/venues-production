@@ -402,4 +402,4 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 
 ## Author's Environmental Impact Statement:
 
-#### I am seeking a job as a remote frontend developer. I would to stop driving my car :car: to an office :office: everyday. Please hire me, or help me become a carbon :deciduous_tree: neutral :recycle: JS developer by sharing your star power :sparkles: with me.
+#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please hire me, or help me become a carbon :deciduous_tree: neutral :recycle: JS developer by sharing your star power :sparkles: with me. I get out of bed every morning hungry to learn and eager to build.
