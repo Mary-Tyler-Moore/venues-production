@@ -27,6 +27,7 @@
 ## Tech Stack
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/venues-production-stack.png?raw=true" width="1000px" />
+
 <br />
 
 ## :muscle: Motivation:
@@ -45,9 +46,9 @@
 
 <br />
 
-![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg)
-
 # Quasar Framework
+
+![Quasar Framework logo](https://cdn.quasar.dev/logo/svg/quasar-logo-full-inline.svg)
 
 > Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
 
