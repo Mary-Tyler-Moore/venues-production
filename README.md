@@ -54,8 +54,6 @@
 
 ## :mag_right: Useful Resources:
 
-<br />
-
 ## Chat Support
 
 Ask questions at the official community Discord server: [https://chat.quasar.dev](https://chat.quasar.dev)
