@@ -2,9 +2,9 @@ export default {
   failed: "Accion: Fallida",
   success: "La acción fue exitosa",
   mainMenu: {
-    back: "Regreso",
+    back: "Atrás",
     navigation: "Navegación",
-    home: "Retorno",
+    home: "Incicio",
     business: "Eventos Empresariales",
     weddings: "Bodas y Eventos Sociales",
     testimonials: "Testimonios",
@@ -16,7 +16,7 @@ export default {
       "Ogeechee Technical College es una institución de igualdad de oportunidades",
     buttonToggle: "Claro/Oscuro",
     dropDown: "Todas Los Salones",
-    language: "Language",
+    language: "Lenguaje",
     english: "Inglés",
     spanish: "Español",
     urdu: "Urdu",
@@ -31,12 +31,12 @@ export default {
     roomDetails: "Detalles de los salones",
     buttonVr: "Tour Virtual",
     theVenues: "Los Venues",
-    oakRoom: "El Oak Room",
+    oakRoom: "The Oak Room",
     riverRoom: "El River Room",
-    magnoliaRoom: "El Magnolia Room",
-    kennedyBoardroom: "El Kennedy Boardroom",
-    ogeecheeBoardroom: "El Ogeechee Boardroom",
-    kennedyAuditorium: "El Kennedy Auditorium",
+    magnoliaRoom: "The Magnolia Room",
+    kennedyBoardroom: "The Kennedy Boardroom",
+    ogeecheeBoardroom: "The Ogeechee Boardroom",
+    kennedyAuditorium: "The Kennedy Auditorium",
     computerLabs: "Laboratorios de Computación",
     classrooms: "Aulas",
     theAtrium: "El Atrium"
@@ -46,19 +46,19 @@ export default {
     venuesText: "Los Venues en OTC",
     venuesSub:
       "¡El lugar perfecto para su próximo evento social o de negocios!",
-    oakText: "El Oak Room",
+    oakText: "The Oak Room",
     oakSub: "Grandes ventanales iluminan este espacio finamente decorado.",
-    riverText: "El River Room",
+    riverText: "The River Room",
     riverSub:
-      "El River Room es cómodo y funcional para seminarios de capacitación, conferencias y presentaciones.",
-    magnoliaText: "El Magnolia Boardroom",
+      "The River Room es cómodo y funcional para seminarios de capacitación, conferencias y presentaciones.",
+    magnoliaText: "The Magnolia Boardroom",
     magnoliaSub: "Conocida como la sala de juntas más elegante en esta área.",
-    kennedybText: "El Kennedy Boardroom",
+    kennedybText: "The Kennedy Boardroom",
     kennedybSub:
-      "El Kennedy Boardroom ofrece el mejor escenario para su próxima reunión de negocios.",
-    ogeecheeText: "El Ogeechee Boardroom",
+      "The Kennedy Boardroom ofrece el mejor escenario para su próxima reunión de negocios.",
+    ogeecheeText: "The Ogeechee Boardroom",
     ogeecheeSub:
-      "El Ogeechee Boardroom tiene capacidad para 16 personas alrededor de una mesa de conferencias de estilo ejecutivo.",
+      "The Ogeechee Boardroom tiene capacidad para 16 personas alrededor de una mesa de conferencias de estilo ejecutivo.",
     kennedyaText: "El Kennedy Auditorium",
     kennedyaSub:
       "Desde sesiones de capacitación hasta oradores de renombre este auditorio recientemente renovado ofrece una experiencia brillante en el lugar.",
@@ -68,8 +68,8 @@ export default {
     classroomText: "Aulas",
     classroomSub:
       "Ofrecemos una amplia gama de aulas con capacidad para 15 a 40 participantes.",
-    atriumText: "El Atrium",
-    atriumSub: "¡El Atrium es simplemente hermoso!"
+    atriumText: "The Atrium",
+    atriumSub: "The Atrium es simplemente hermoso!"
   },
   home: {
     title: "Bienvenido al Venues!",
@@ -115,7 +115,7 @@ export default {
     eightHours: "hasta 8 horas",
     additionalHour: "Hora adicional",
     labelFeeSchedule: "Programa de tarifas",
-    labelFeeIncludes: "Tarifa incluye",
+    labelFeeIncludes: "Servicios incluidos",
     labelEnhancedPackage: "Paquete mejorado",
     labelCapacity: "Capacidad",
     labelOverview: "Visión general",
