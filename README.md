@@ -268,7 +268,7 @@ ctrl+C
 
 <img src="http://placekitten.com/805/500" />
 
-## 6. Setup PM2 process manager to keep your app running :running: :exclamation: :tiger2:
+## 6. Setup PM2 process manager to keep your app running :running: :dash: :exclamation: :tiger2:
 
 ```
 sudo npm i pm2 -g
@@ -402,4 +402,4 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 
 ## Author's Environmental Impact Statement:
 
-#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please hire me, or help me become a carbon :deciduous_tree: neutral :recycle: JS developer by sharing your star power :sparkles: with me. I get out of bed every morning hungry to learn and eager to build.
+#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please hire me, or help me become a more :deciduous_tree: carbon neutral :recycle: developer by sharing your star power :sparkles: with me.
