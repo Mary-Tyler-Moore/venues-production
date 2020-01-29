@@ -24,6 +24,8 @@
   </p>
 </p>
 
+<br />
+
 ## Tech Stack
 
 > Check out the other tech stacks I use at [Stack Share](https://stackshare.io/Mary-Tyler-Moore)
@@ -54,10 +56,14 @@
 
 > Build responsive Single Page Apps, **SSR Apps**, PWAs, Hybrid Mobile Apps and Electron Apps, all using the same codebase!, powered with Vue.
 
+<br />
+
 ## :moneybag: Supporting Quasar
 Quasar Framework is an MIT-licensed open source project. Its ongoing development is made possible thanks to the support by these awesome [backers](https://github.com/rstoenescu/quasar-framework/blob/dev/backers.md).
 
 **Please read our manifest on [Why donations are important](https://quasar.dev/why-donate)**. If you'd like to become a donator, check out [Quasar Framework's Donator campaign](https://donate.quasar.dev).
+
+<br />
 
 ## :mag_right: Useful Resources:
 
@@ -97,39 +103,17 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 <br />
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-<br />
-
----
-
-<br />
-
 ## :rocket: To-do:
-
-:zap:
-Updates to venues-production - 1/24/2020
 
 - [x] Write README.md
 - [ ] Replace placeholder images with gifs
 - [x] Setup Prettier
 - [ ] Clean up folder structure
-- [ ] Create 1 template card
+- [ ] Create 1 template card to replace the cards used for each room
 - [ ] Move hard coded data from cards to external JSON file
 - [ ] Move all project example images to Cloudflare CDN.
 - [ ] Update contact page
+
 
 <br />
 
@@ -166,6 +150,20 @@ Updates to venues-production - 1/24/2020
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/mobile-room-info.png?raw=true" height="500" />
 
 <br />
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## :cd: About The Project
 
