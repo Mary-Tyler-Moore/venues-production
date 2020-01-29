@@ -121,7 +121,7 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 <br />
 
-## :cd: Project History
+## :calendar: Project History
 
 ### :speedboat:	 Performance Improvements:
 
