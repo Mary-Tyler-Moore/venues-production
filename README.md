@@ -1,6 +1,6 @@
 ## Star Power :sparkles:
 
-#### If this guide helps please star :star: the repo.
+#### If you like my work please star :star: the repo.
 
 <br />
 <p align="center">
