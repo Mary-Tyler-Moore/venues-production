@@ -409,8 +409,9 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 ## Acknowledgements
 
 - I want to thank [nothingismagick](https://github.com/nothingismagick) for writing this [guide](https://dev.to/nothingismagick/setup-and-serve-quasar-ssr-in-a-droplet-in-30-minutes-and-in-3-quick-and-easy-steps-49kp).
-- I also want to thank [Brad Traversy](https://github.com/bradtraversy) for providing this [gist](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896)
+- I want to thank [Brad Traversy](https://github.com/bradtraversy) for providing this [gist](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896)
   that I used as a reference.
+- I also want to thank [Nisgrak](https://github.com/Nisgrak) for helping me correct errors in my Spanish translation.
 
 ## Author's Environmental Impact Statement:
 
