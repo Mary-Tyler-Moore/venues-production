@@ -231,7 +231,8 @@ quasar ext add @quasar/icon-genie
 ```
 
 <br />
-## :neckbeard: Node.js Deployment
+
+## :neckbeard: Node.js Deployment (Currently a WIP!)
 
 > Steps to deploy a Node.js app to DigitalOcean using PM2, NGINX as a reverse proxy and an SSL from LetsEncrypt
 
@@ -412,4 +413,4 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 
 ## Author's Environmental Impact Statement:
 
-#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please help me become a more :deciduous_tree: carbon neutral :recycle: developer by sharing your star power :sparkles: with me.
+#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please help me become a more carbon :deciduous_tree: neutral :recycle: JS dev by sharing your star power :sparkles: with me.
