@@ -123,9 +123,15 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 ## :calendar: Project History
 
-### :speedboat:	 Performance Improvements:
+### Performance Improvements:
+
+<img src="https://github.com/Mary-Tyler-Moore/README-preview/blob/master/puppy-race.gif?raw=true" width="1000" />
+
+<br />
 
 #### Before:
+
+SPA Build deployed on LAMP stack 
 
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/venues-before.png?raw=true" height="500" />
 
@@ -133,7 +139,13 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 #### After:
 
+SSR Build deployed on DigitalOcean using PM2 and NGINX as server proxy
+
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/lovejs-lighthouse.png?raw=true" height="500" />
+
+#### :battery: NetData:
+
+<img src="https://github.com/Mary-Tyler-Moore/README-preview/blob/master/load-2200-10-1.gif?raw=true" width="1000" />
 
 ### :art: UI/UX Improvments:
 
