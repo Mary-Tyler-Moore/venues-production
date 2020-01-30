@@ -160,7 +160,7 @@ other systems derived from them, such as **Kubernetes** and **Docker**.
 > [httperf](https://github.com/httperf/httperf) is a tool :hammer: for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 
 #### Load Testing Server (WIP)
-> I am developing a test to demonstrates the load on our servers at the start (3,000 concurrent connection) a of Georgia Southern University Football :football: Game, and at half-time. These are the times during the game when the greatest number of fans are using our User Login Portal and free WiFi service.
+> I am developing a test to demonstrate the load on our servers at the start (3,000 concurrent connections) of a University Football :football: Game. We see the largest amount of traffic 15 minutes before the game begins, and half time when the fans are using our Login Portal to access the free WiFi service my company provides at the games.
   
 <br />  
   
