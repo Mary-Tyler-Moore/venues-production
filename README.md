@@ -144,8 +144,29 @@ SSR Build deployed on DigitalOcean using PM2 and NGINX as server proxy
 <img src="https://github.com/Mary-Tyler-Moore/venues-production/blob/master/src/statics/lovejs-lighthouse.png?raw=true" height="500" />
 
 #### :battery: NetData:
+> I would like to demonstrate the server loads we experience at the start of a University Football Game, and at half-time. These are the times during the game when the greatest number of fans are using our User Login Portal and free WiFi service.
 
 <img src="https://github.com/Mary-Tyler-Moore/README-preview/blob/master/load-2200-10-1.gif?raw=true" width="1000" />
+Total: connections 2200 requests 2200 replies 2200 test-duration 219.901 s
+
+Connection rate: 10.0 conn/s (100.0 ms/conn, <=1 concurrent connections)
+Connection time [ms]: min 0.2 avg 0.4 max 6.8 median 0.5 stddev 0.3
+Connection time [ms]: connect 0.0
+Connection length [replies/conn]: 1.000
+
+Request rate: 10.0 req/s (100.0 ms/req)
+Request size [B]: 68.0
+
+Reply rate [replies/s]: min 10.0 avg 10.0 max 10.0 stddev 0.0 (43 samples)
+Reply time [ms]: response 0.4 transfer 0.0
+Reply size [B]: header 164.0 content 178.0 footer 0.0 (total 342.0)
+Reply status: 1xx=0 2xx=0 3xx=0 4xx=2200 5xx=0
+
+CPU time [s]: user 121.13 system 98.74 (user 55.1% system 44.9% total 100.0%)
+Net I/O: 4.0 KB/s (0.0*10^6 bps)
+
+Errors: total 0 client-timo 0 socket-timo 0 connrefused 0 connreset 0
+Errors: fd-unavail 0 addrunavail 0 ftab-full 0 other 0
 
 ### :art: UI/UX Improvments:
 
