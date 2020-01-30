@@ -150,7 +150,6 @@ SSR Build deployed on DigitalOcean using PM2 and NGINX as server proxy
 > [**NetData**](https://github.com/netdata/netdata) is **distributed, real-time, performance and health monitoring for systems and applications**. Netdata is **free, open-source software** and it currently runs on **Linux**, **FreeBSD**, and **MacOS**, along with
 other systems derived from them, such as **Kubernetes** and **Docker**.
 
-<img src="https://github.com/Mary-Tyler-Moore/README-preview/blob/master/load-2200-10-1.gif?raw=true" width="1000" />
 
 <br />
 
