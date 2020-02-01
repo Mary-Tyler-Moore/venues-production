@@ -40,7 +40,7 @@
 
 <br />
 
-## :floppy_disk: Developer Accessibility Statement:
+## :floppy_disk: :dash: Developer Accessibility Statement:
 
 #### :crystal_ball: I see great success in your future. Believe in yourself and you will achieve anything. 
 
