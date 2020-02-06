@@ -19,7 +19,8 @@
             : 'color: #1e1e1e'"
     >{{ $t('mainMenu.weddings') }}</h5>
 
-    <div class="space"></div>
+    <div class="space"></div> 
+    
     <!-- Begin Mobile Section-->
     <div class="column items-center">
       <!-- Mobile Card 1 -->
