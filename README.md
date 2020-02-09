@@ -440,7 +440,3 @@ Distributed under the Creative Commons BY-NC-SA License. See `LICENSE` for more 
 - I want to thank [Brad Traversy](https://github.com/bradtraversy) for providing this [gist](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896)
   that I used as a reference.
 - I also want to thank [Nisgrak](https://github.com/Nisgrak) for helping me correct errors in my [Spanish translation](https://github.com/Mary-Tyler-Moore/venues-production/commit/c5d52667c6f27c9144153f0714a133731536403c).
-
-## Author's Environmental Impact Statement:
-
-#### I am seeking a job as a remote Frontend Developer. My dream is to stop driving my car :car: to the office :office: everyday. Please help me become a more carbon :deciduous_tree: neutral :recycle: JS dev by sharing your star power :sparkles: with me.
