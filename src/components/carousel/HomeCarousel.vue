@@ -9,7 +9,7 @@
       infinite
       v-model="slide"
       height="100vh"
-      width="100wv"
+      width="100vw"
       background-color="black"
     >
       <!--
