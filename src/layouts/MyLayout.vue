@@ -235,7 +235,7 @@
         <div v-if="$q.platform.is.desktop">
           <!-- Dark Mode Toggle -->
           <q-btn
-            :icon="$q.dark.isActive ? 'wb_sunny' : 'brightness_3'"
+            :icon="$q.dark.isActive ? 'brightness_3' : 'wb_sunny'"
             flat
             class="absolute-right"
             style="margin-right: 2em; margin-top: 1.4em"
