@@ -30,35 +30,35 @@ export default {
     pdfCapacityChart: "Gráfico de Capacidad",
     roomDetails: "Detalles de los salones",
     buttonVr: "Tour Virtual",
-    theVenues: "The Venues",
-    oakRoom: "The Oak Room",
-    riverRoom: "The River Room",
-    magnoliaRoom: "The Magnolia Room",
-    kennedyBoardroom: "The Kennedy Boardroom",
-    ogeecheeBoardroom: "The Ogeechee Boardroom",
-    kennedyAuditorium: "The Kennedy Auditorium",
+    theVenues: "Venues",
+    oakRoom: "Oak Room",
+    riverRoom: "River Room",
+    magnoliaRoom: "Magnolia Room",
+    kennedyBoardroom: "Kennedy Boardroom",
+    ogeecheeBoardroom: "Ogeechee Boardroom",
+    kennedyAuditorium: "Kennedy Auditorium",
     computerLabs: "Laboratorios de Computación",
     classrooms: "Aulas",
     theAtrium: "The Atrium"
   },
   carousel: {
     autoPlay: "Reproducción Automática",
-    venuesText: "The Venues en OTC",
+    venuesText: "Venues en OTC",
     venuesSub:
       "¡El lugar perfecto para su próximo evento social o de negocios!",
-    oakText: "The Oak Room",
+    oakText: "Oak Room",
     oakSub: "Grandes ventanales iluminan este espacio finamente decorado.",
-    riverText: "The River Room",
+    riverText: "River Room",
     riverSub:
-      "The River Room es cómodo y funcional para seminarios de capacitación, conferencias y presentaciones.",
-    magnoliaText: "The Magnolia Boardroom",
+      "River Room es cómodo y funcional para seminarios de capacitación, conferencias y presentaciones.",
+    magnoliaText: "Magnolia Boardroom",
     magnoliaSub: "Conocida como la sala de juntas más elegante en esta área.",
-    kennedybText: "The Kennedy Boardroom",
+    kennedybText: "Kennedy Boardroom",
     kennedybSub:
-      "The Kennedy Boardroom ofrece el mejor escenario para su próxima reunión de negocios.",
-    ogeecheeText: "The Ogeechee Boardroom",
+      "Kennedy Boardroom ofrece el mejor escenario para su próxima reunión de negocios.",
+    ogeecheeText: "Ogeechee Boardroom",
     ogeecheeSub:
-      "The Ogeechee Boardroom tiene capacidad para 16 personas alrededor de una mesa de conferencias de estilo ejecutivo.",
+      "Ogeechee Boardroom tiene capacidad para 16 personas alrededor de una mesa de conferencias de estilo ejecutivo.",
     kennedyaText: "The Kennedy Auditorium",
     kennedyaSub:
       "Desde sesiones de capacitación hasta oradores de renombre este auditorio recientemente renovado ofrece una experiencia brillante en el lugar.",
@@ -68,8 +68,8 @@ export default {
     classroomText: "Aulas",
     classroomSub:
       "Ofrecemos una amplia gama de aulas con capacidad para 15 a 40 participantes.",
-    atriumText: "The Atrium",
-    atriumSub: "The Atrium es simplemente hermoso!"
+    atriumText: "Atrium",
+    atriumSub: "Atrium es simplemente hermoso!"
   },
   home: {
     title: "Bienvenido al Venues!",

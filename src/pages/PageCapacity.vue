@@ -1,36 +1,40 @@
 <template>
   <q-page padding>
-		<q-btn
-			to="/"
-			:style="
+    <q-btn
+      to="/"
+      :style="
       $q.dark.isActive
         ? 'color: white'
         : 'color: #1e1e1e'"
-			icon="chevron_left"
-			label="Back"
-			flat />
+      icon="chevron_left"
+      label="Back"
+      flat
+    />
 
-	<h5 
+    <h5
       style="font-weight: bold"
       :style="
           $q.dark.isActive
             ? 'color: white'
             : 'color: #1e1e1e'"
-      >Capacity Chart
-      </h5>
-    <div class="column items-center" style="height: 75vh;">
-    <q-pdfviewer
-      style="width: 75%"
-      v-model="show"
-      type="html5"
-      :src="updatedSrc"
-      content-class="relative"
-    />
+    >Capacity Chart
+    </h5>
+    <div
+      class="column items-center"
+      style="height: 75vh;"
+    >
+      <q-pdfviewer
+        style="width: 75%"
+        v-model="show"
+        type="html5"
+        :src="updatedSrc"
+        content-class="relative"
+      />
     </div>
-    <footer /> 
-    <!-- End Footer --> 
+    <footer />
+    <!-- End Footer -->
 
-    </q-page>   
+  </q-page>
 </template>
 
 <script>
@@ -56,5 +60,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
 </style>

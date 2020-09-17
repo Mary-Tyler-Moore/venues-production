@@ -874,7 +874,7 @@
       <!-- Mobile Menu Buttons -->
       <div v-if="$q.platform.is.mobile">
         <q-btn
-          :icon="$q.dark.isActive ? 'wb_sunny' : 'brightness_3'"
+          :icon="$q.dark.isActive ? 'brightness_3' : 'wb_sunny'"
           flat
           class="absolute-right"
           style="margin-right: 96px; margin-top: 15px;"

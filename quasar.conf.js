@@ -45,7 +45,7 @@ module.exports = function (ctx) {
       config: {
         dark: 'true'
       },
-      
+
       components: [
         'QLayout',
         'QHeader',
@@ -143,7 +143,7 @@ module.exports = function (ctx) {
 
     // https://quasar.dev/quasar-cli/developing-pwa/configuring-pwa
     pwa: {
-      // workboxPluginMode: 'InjectManifest',
+      workboxPluginMode: 'InjectManifest',
       // workboxOptions: {}, // only for NON InjectManifest
       manifest: {
         // name: 'Quasar App',
