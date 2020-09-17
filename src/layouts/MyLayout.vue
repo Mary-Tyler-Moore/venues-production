@@ -958,12 +958,14 @@
 
     <q-page-container>
       <router-view />
-
+      <!-- 
       <q-page-sticky
         position="bottom-right"
         :offset="[20, 30]"
         v-if="$q.platform.is.desktop"
+        name="sticky"
       >
+    
         <q-fab
           icon="keyboard_arrow_up"
           color="pink"
@@ -983,6 +985,7 @@
           />
         </q-fab>
       </q-page-sticky>
+      -->
     </q-page-container>
   </q-layout>
 </template>
