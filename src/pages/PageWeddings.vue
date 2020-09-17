@@ -10,7 +10,6 @@
       v-bind:label="$t('mainMenu.back')"
       flat
     />
-
     <h5
       style="font-weight: bold"
       :style="
@@ -18,32 +17,15 @@
             ? 'color: white'
             : 'color: #1e1e1e'"
     >{{ $t('mainMenu.weddings') }}</h5>
-
-    <div class="space"></div> 
-    
-    <!-- Begin Mobile Section-->
+    <div class="space"></div>
     <div class="column items-center">
-      <!-- Mobile Card 1 -->
-
-      <oak-weddings-card></oak-weddings-card>
-
-      <!-- End Mobile Card 1 -->
-
+      <oak-weddings-card />
       <div class="space" />
-
-      <!-- Begin Mobile Card 2 -->
-      <kennedya-weddings-card></kennedya-weddings-card>
-      <!-- End Mobile Card 2 -->
-
+      <kennedya-weddings-card />
       <div class="space" />
-
-      <!-- Begin Mobile Card 3 -->
-      <atrium-card></atrium-card>
-      <!-- End Mobile Card 3 -->
+      <atrium-card />
     </div>
-    <!-- End Mobile Section -->
-
-    <footer />
+    <Footer />
   </q-page>
 </template>
 
@@ -61,7 +43,7 @@ export default {
     AtriumCard,
     Footer
   },
-  data() {
+  data () {
     return {
       slide: 1,
       tab: "one",

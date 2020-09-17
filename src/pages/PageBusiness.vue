@@ -1,47 +1,47 @@
 <template>
   <q-page padding>
-		<q-btn
-			to="/"
-			:style="
+    <q-btn
+      to="/"
+      :style="
       $q.dark.isActive
         ? 'color: white'
         : 'color: #1e1e1e'"
-			icon="chevron_left"
-			v-bind:label="$t('mainMenu.back')"
-			flat />
-		<h5 
+      icon="chevron_left"
+      v-bind:label="$t('mainMenu.back')"
+      flat
+    />
+    <h5
       style="font-weight: bold"
       :style="
           $q.dark.isActive
             ? 'color: white'
             : 'color: #1e1e1e'"
-      >{{ $t('mainMenu.business') }}
-      </h5>
+    >{{ $t('mainMenu.business') }}
+    </h5>
     <div class="space"></div>
-        <!-- Begin card Section-->
-        <div class="column items-center" >
-          <oak-card/>
-            <div class="space"/>
-          <river-card/>
-            <div class="space"/>
-          <magnolia-card/>
-            <div class="space"/>
-          <kennedyb-card/>
-            <div class="space"/>
-          <ogeechee-card/>
-            <div class="space"/>
-          <kennedya-card/>
-            <div class="space"/>
-          <computer-card/>
-            <div class="space"/>
-          <classroom-card/>
-            <div class="space"/>  
-          <atrium-card/>
-            <div class="space"/>        
-        </div>
-        <!-- End Mobile Section -->
-    <footer />
-    </q-page>   
+    <!-- Begin card Section-->
+    <div class="column items-center">
+      <oak-card />
+      <div class="space" />
+      <river-card />
+      <div class="space" />
+      <magnolia-card />
+      <div class="space" />
+      <kennedyb-card />
+      <div class="space" />
+      <ogeechee-card />
+      <div class="space" />
+      <kennedya-card />
+      <div class="space" />
+      <computer-card />
+      <div class="space" />
+      <classroom-card />
+      <div class="space" />
+      <atrium-card />
+      <div class="space" />
+    </div>
+    <Footer />
+  </q-page>
 </template>
 
 <script>
@@ -59,40 +59,38 @@ import OgeecheeCard from 'components/cards/OgeecheeCard.vue'
 import Footer from 'components/footer/Footer.vue'
 
 
-	export default {
-    components: {
-      OakCard,
-      RiverCard,
-      MagnoliaCard,
-      KennedybCard,
-      KennedyaCard,
-      ComputerCard,
-      ClassroomCard,
-      AtriumCard,
-      OgeecheeCard,
-      Footer
-
-
+export default {
+  components: {
+    OakCard,
+    RiverCard,
+    MagnoliaCard,
+    KennedybCard,
+    KennedyaCard,
+    ComputerCard,
+    ClassroomCard,
+    AtriumCard,
+    OgeecheeCard,
+    Footer
+  },
+  data () {
+    return {
+      slide: 1,
+      tab: 'one',
+      splitterModel: 15
+    }
+  },
+  methods: {
+    venuesBusiness () {
+      openURL('http://venuesatotc.com/business_events.html')
     },
-    data() {
-      return {
-        slide: 1,  
-        tab: 'one',
-        splitterModel: 15
-      }
+    oakRoomVr () {
+      openURL('https://vrmap.netlify.com')
     },
-	  methods: {
-			venuesBusiness() {
-				openURL('http://venuesatotc.com/business_events.html')
-			},
-			oakRoomVr() {
-				openURL('https://vrmap.netlify.com')
-			},
-		}
-	}
+  }
+}
 </script>
 <style lang="scss" scoped>
-  .space {
-    padding: 2rem;
-  }
+.space {
+  padding: 2rem;
+}
 </style>
