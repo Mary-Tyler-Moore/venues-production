@@ -1,7 +1,3 @@
-## Star Power :sparkles:
-
-#### If you like my work please star :star: the repo.
-
 <br />
 <p align="center">
   <h1 align="center">:movie_camera: venues-production :clapper:</h1>
@@ -94,29 +90,9 @@ Head on to the Quasar Framework official website: [https://quasar.dev](https://q
 
 <br />
 
-## :rocket: To-do:
-
-- [x] Write README.md
-- [ ] Replace placeholder images with gifs
-- [x] Setup Prettier
-- [ ] Clean up folder structure
-- [ ] Create 1 template card to replace the cards used for each room
-- [ ] Move hard coded data from cards to external JSON file
-- [ ] Move all project example images to Cloudflare CDN.
-- [ ] Update contact page
-
-
-<br />
-
----
-
-<br />
-
 ## :calendar: Project History
 
 ## Performance Improvements
-
-<img src="https://github.com/Mary-Tyler-Moore/README-preview/blob/master/puppy-race.gif?raw=true" width="1000" />
 
 <br />
 
